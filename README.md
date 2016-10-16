@@ -1,0 +1,1 @@
+# lnav-logcat-format
